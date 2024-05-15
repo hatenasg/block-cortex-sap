@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "reporting"
+  value: "sap-cortex-demo"
   export: override_required
 }
 
@@ -9,7 +9,7 @@ constant: GCP_PROJECT {
 }
 
 constant: REPORTING_DATASET {
-  value: "reporting"
+  value: "sap_REPORTING"
   export: override_required
 }
 
